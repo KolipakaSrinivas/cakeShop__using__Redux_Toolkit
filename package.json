@@ -1,0 +1,22 @@
+{
+  "name": "cakeshop__using__redux_toolkit",
+  "version": "1.0.0",
+  "description": "building a cake shop javscript application using redux and Redux Toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KolipakaSrinivas/cakeShop__using__Redux_Toolkit.git"
+  },
+  "author": "srinivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KolipakaSrinivas/cakeShop__using__Redux_Toolkit/issues"
+  },
+  "homepage": "https://github.com/KolipakaSrinivas/cakeShop__using__Redux_Toolkit#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5"
+  }
+}
